@@ -5,7 +5,7 @@ the following command:
     python -m unittest tests/test_book.py
 
 """
-__author__ = ""
-__version__ = ""
+__author__ = "David Nesca"
+__version__ = "1.0"
 
 import unittest

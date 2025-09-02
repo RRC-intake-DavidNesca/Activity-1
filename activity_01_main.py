@@ -4,7 +4,7 @@ the activity classes.
 """
 __author__ = "ACE Faculty"
 __version__ = "1.0.0"
-__credits__ = ""
+__credits__ = "6"
 
 
 def main():

@@ -3,7 +3,7 @@ Description: An enumeration containing valid Genres.
 """
 __author__ = "ACE Faculty"
 __version__ = "1.0.0"
-__credits__ = ""
+__credits__ = "6"
 
 from enum import Enum
 
