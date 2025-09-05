@@ -2,11 +2,11 @@
 from genre.genre import Genre
 
 # This variable records the author of this file as requested by the course template.
-__author__ = "Student"
+__author__ = "David Nesca"
 # This variable records the version string for this file.
 __version__ = "1.0.0"
 # This variable records optional credits information for this file.
-__credits__ = ""
+__credits__ = "6"
 
 # This class definition starts the LibraryItem class which will hold all related data and behavior.
 class LibraryItem:

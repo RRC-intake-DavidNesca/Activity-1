@@ -4,11 +4,11 @@ from library_item.library_item import LibraryItem
 from genre.genre import Genre
 
 # This variable records the author name for this script in the same style used by course files.
-__author__ = "Student"
+__author__ = "David Nesca"
 # This variable records the version string for this script.
 __version__ = "1.0.0"
 # This variable records optional credits for this script.
-__credits__ = ""
+__credits__ = "6.0"
 
 # This function is the program entry point for this simple client.
 def main():
